@@ -3,9 +3,9 @@
 
 MM/DD/YY UpdateName: What's new.
 
-7/20/2020 Update 1: Site Created!
+8/8/2020 Update 2: Fixed downloads.
 
-![-_Eternity_Vaxei](https://cdn.discordapp.com/attachments/719638972854304859/734744427788107846/-_Eternity_Vaxei.osk)
+![- Eternity_Vaxei](https://cdn.discordapp.com/attachments/719638972854304859/734744427788107846/-_Eternity_Vaxei.osk)
 ![](https://akatsuki.pw/ss/WTQ03MPZ.png)
 
 ![no+colour](https://www.mediafire.com/file/z6mzj3jwz0nwlbd/no+colour.osk/file)
